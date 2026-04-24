@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Week7/Week7Scene2.unity
     guid: 129d20245d75fad41825b15fe88766d3
+  - enabled: 1
+    path: Assets/Scenes/Week8/Week8.unity
+    guid: 00588de9dd9314b42966316ef9c888d3
+  - enabled: 1
+    path: Assets/Scenes/Week8/Week8MainMenu.unity
+    guid: aa7221dc7ea3fbe45bf05e033d0a3b75
+  - enabled: 1
+    path: Assets/Scenes/Week8/Week8Scene1.unity
+    guid: 4ea0f775b903cd049b822f371ebb915a
+  - enabled: 1
+    path: Assets/Scenes/Week8/Week8Scene2.unity
+    guid: 4fd6def9ec488bd4496b89498962491d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

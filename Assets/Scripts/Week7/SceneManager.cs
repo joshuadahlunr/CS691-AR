@@ -11,6 +11,8 @@ public class SceneManager : MonoBehaviour {
 #endif
 
     [SerializeField] private string scene1, scene2, mainMenu; // Used in builds
+    
+    public AudioSource backgroundMusic;
 
 #if UNITY_EDITOR
     private void OnValidate()
